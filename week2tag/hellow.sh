@@ -1,3 +1,1 @@
-git add .
-git commit .
-git push -u origin tag-test
+echo Hello devops week1 tag test
